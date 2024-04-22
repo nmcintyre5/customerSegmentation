@@ -1,0 +1,120 @@
+
+Cluster 0 Profile:
+BALANCE                             1536.241144
+BALANCE_FREQUENCY                      0.965376
+PURCHASES                            265.810702
+ONEOFF_PURCHASES                     221.776605
+INSTALLMENTS_PURCHASES                44.197208
+CASH_ADVANCE                         801.628180
+PURCHASES_FREQUENCY                    0.158614
+ONEOFF_PURCHASES_FREQUENCY             0.102684
+PURCHASES_INSTALLMENTS_FREQUENCY       0.057545
+CASH_ADVANCE_FREQUENCY                 0.160829
+CASH_ADVANCE_TRX                       3.042518
+PURCHASES_TRX                          3.008240
+CREDIT_LIMIT                        3279.850582
+PAYMENTS                             974.867889
+MINIMUM_PAYMENTS                     792.302936
+PRC_FULL_PAYMENT                       0.021811
+TENURE                                11.507910
+Name: 0, dtype: float64
+
+Cluster 1 Profile:
+BALANCE                              111.977595
+BALANCE_FREQUENCY                      0.374715
+PURCHASES                            334.774775
+ONEOFF_PURCHASES                     209.272151
+INSTALLMENTS_PURCHASES               125.729016
+CASH_ADVANCE                         335.263311
+PURCHASES_FREQUENCY                    0.265949
+ONEOFF_PURCHASES_FREQUENCY             0.077918
+PURCHASES_INSTALLMENTS_FREQUENCY       0.179673
+CASH_ADVANCE_FREQUENCY                 0.038210
+CASH_ADVANCE_TRX                       0.807018
+PURCHASES_TRX                          4.133486
+CREDIT_LIMIT                        3741.597173
+PAYMENTS                            1094.053808
+MINIMUM_PAYMENTS                     267.574666
+PRC_FULL_PAYMENT                       0.230855
+TENURE                                11.296720
+Name: 1, dtype: float64
+
+Cluster 2 Profile:
+BALANCE                             1854.290751
+BALANCE_FREQUENCY                      0.978609
+PURCHASES                           3039.933405
+ONEOFF_PURCHASES                    2093.976029
+INSTALLMENTS_PURCHASES               946.416442
+CASH_ADVANCE                         335.527950
+PURCHASES_FREQUENCY                    0.928999
+ONEOFF_PURCHASES_FREQUENCY             0.755638
+PURCHASES_INSTALLMENTS_FREQUENCY       0.580898
+CASH_ADVANCE_FREQUENCY                 0.054594
+CASH_ADVANCE_TRX                       1.091813
+PURCHASES_TRX                         44.621270
+CREDIT_LIMIT                        7054.053001
+PAYMENTS                            2884.224387
+MINIMUM_PAYMENTS                     806.610915
+PRC_FULL_PAYMENT                       0.285220
+TENURE                                11.882173
+Name: 2, dtype: float64
+
+Cluster 3 Profile:
+BALANCE                             4879.887135
+BALANCE_FREQUENCY                      0.966672
+PURCHASES                            563.167792
+ONEOFF_PURCHASES                     343.295232
+INSTALLMENTS_PURCHASES               219.977482
+CASH_ADVANCE                        5051.892747
+PURCHASES_FREQUENCY                    0.307964
+ONEOFF_PURCHASES_FREQUENCY             0.146850
+PURCHASES_INSTALLMENTS_FREQUENCY       0.201473
+CASH_ADVANCE_FREQUENCY                 0.513896
+CASH_ADVANCE_TRX                      15.836945
+PURCHASES_TRX                          8.588235
+CREDIT_LIMIT                        8000.881884
+PAYMENTS                            3960.949324
+MINIMUM_PAYMENTS                    2057.307080
+PRC_FULL_PAYMENT                       0.039029
+TENURE                                11.396285
+Name: 3, dtype: float64
+
+Cluster 4 Profile:
+BALANCE                              4692.477130
+BALANCE_FREQUENCY                       0.973565
+PURCHASES                           16622.873947
+ONEOFF_PURCHASES                    11198.460658
+INSTALLMENTS_PURCHASES               5424.413289
+CASH_ADVANCE                         1011.421719
+PURCHASES_FREQUENCY                     0.920833
+ONEOFF_PURCHASES_FREQUENCY              0.749462
+PURCHASES_INSTALLMENTS_FREQUENCY        0.776874
+CASH_ADVANCE_FREQUENCY                  0.071272
+CASH_ADVANCE_TRX                        2.447368
+PURCHASES_TRX                         135.105263
+CREDIT_LIMIT                        12603.947368
+PAYMENTS                            16306.639412
+MINIMUM_PAYMENTS                     3625.099437
+PRC_FULL_PAYMENT                        0.389640
+TENURE                                 11.960526
+Name: 4, dtype: float64
+
+Cluster 5 Profile:
+BALANCE                              748.111204
+BALANCE_FREQUENCY                      0.950570
+PURCHASES                            865.993293
+ONEOFF_PURCHASES                     192.865379
+INSTALLMENTS_PURCHASES               673.657554
+CASH_ADVANCE                         212.400889
+PURCHASES_FREQUENCY                    0.877116
+ONEOFF_PURCHASES_FREQUENCY             0.093842
+PURCHASES_INSTALLMENTS_FREQUENCY       0.815832
+CASH_ADVANCE_FREQUENCY                 0.042945
+CASH_ADVANCE_TRX                       0.811806
+PURCHASES_TRX                         17.841545
+CREDIT_LIMIT                        3301.651221
+PAYMENTS                            1008.627606
+MINIMUM_PAYMENTS                     735.345085
+PRC_FULL_PAYMENT                       0.251535
+TENURE                                11.483799
+Name: 5, dtype: float64
